@@ -1,0 +1,30 @@
+
+ #boton{
+    background: #E6E6EA;
+    border-radius: 20px;
+    color:black;
+    padding: 3px 6px 3px 10px;
+    width: 96px;
+    height: 24px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 12px;
+    line-height: 14px;
+    margin-top: 10px; 
+    
+}
+
+
+.iconClose{
+color:  #A5A8B3;
+cursor: pointer;
+}
+.etiquetas{
+    display: flex;
+    flex-direction: row;
+ margin-left: -10rem;
+}
+.etiquetas button{
+    margin-right: -11rem;
+}

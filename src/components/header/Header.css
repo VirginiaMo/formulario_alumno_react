@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+h3{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 800px;
+    font-size: 24px;
+    line-height: 28px;
+    margin-left: 2rem;
+    margin-top: 3.5rem;
+    
+}
+.icon{
+    color: #A5A8B3;
+    margin-top: 0.8rem;
+    margin-right: 0.6rem;
+    margin-left: -0.5rem;
+}
+
+.titleContainer span{
+    width: 3px; /* Line width */
+      height:2vh;
+      margin-top: 1rem;
+      margin-left: 0.5rem;
+      margin-right: 0.5rem;
+     background-color:#A5A8B3;
+
+}
+.titleContainer{
+    display: flex;
+    flex-direction: row;
+    margin-bottom: 20px;
+    font-style: normal;
+    font-weight: normal;
+    line-height: 28px;
+    margin-top: 5.5rem;
+    margin-left: -11rem;
+    
+  }
+  .titleContainer p{
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 15px;
+    line-height: 16px;
+    color:#A5A8B3;
+  }
+  .containerHeader{
+      display: flex;
+      flex-direction: row;
+      margin-left: 2rem;
+  }

@@ -1,0 +1,134 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+/*formulario para pantalla 1500px*/
+
+.containerForm form{
+   display: flex;
+   flex-direction: column;
+}
+.containerForm input{
+    margin-bottom: 1rem;
+    Width: 188px;
+    height: 40px;
+    padding-left: 15px;
+    background: #F8F8F9;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: 2rem;
+}
+.containerForm .nombreAlumno{
+    width: 452px;
+    height: 40px;
+}
+.containerForm label{
+    margin-bottom: 5px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 14px;
+    line-height: 16px;
+    letter-spacing: -0.01em;
+    margin-left: -81rem;
+    margin-bottom: 10px;
+}
+.containerForm select{
+    margin-bottom:1rem ;
+    width: 214px;
+    height: 40px;
+    padding-left: 15px;
+    background: #F8F8F9;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    margin-left: 2rem;
+} 
+
+
+
+button{
+    width: 120px;
+    height: 45px;
+    border-top-left-radius: 5px;
+    border-top-right-radius: 5px;
+    border-bottom-left-radius: 5px;
+    border-bottom-right-radius: 5px;
+    margin-top: -12.1rem;
+    background: #FFFFFF;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    margin-bottom: 20px;
+    margin-left: 12rem;
+}
+.subir{
+    padding: 5px 10px;
+    background-color:  #A5A8B3;
+    border-radius: 8px;
+    color:#FFFFFF;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 15px;
+    line-height: 18px;
+    width: 120px;
+    height: 28px;
+    padding-left: 10px;
+    padding-top: 12px;
+  
+}
+ .containerForm .subir{
+    margin-left: 2rem;
+}
+
+
+.iconCloud{
+    color:#F8F8F9;
+    margin-right: 10px;
+}
+.trashIcon{
+    margin-right: 10px;
+}
+.inputFile{
+    display: none;
+}
+ .containerForm .inputLabel{
+  margin-left: -55rem;
+  margin-top: -5.5rem;
+}
+.containerForm .inputEmail{
+    margin-left: 18rem;
+}
+.containerForm .inputLabelCiudad{
+    margin-left: -54rem;
+    margin-top: -5.5rem;
+}
+.containerForm .inputCiudad{
+    margin-left: 18rem;
+}
+.containerForm .inputPresencialidad{
+    margin-left: -51rem;
+    margin-top: -5.5rem;
+}
+.containerForm .selectPresencialidad{
+    margin-left: 18rem;
+}
+.containerForm .labelTelefono{
+    margin-left: -84rem;
+}
+.containerForm .labelPais{
+    margin-left: -87rem;
+}
+.containerForm .labelTraslado{
+    margin-left: -86rem; 
+}
+.containerForm .labelDocumento{
+    margin-left: -83rem;   
+}
+.containerForm .labelEtiquetas{
+    margin-left: -86rem; 
+}
